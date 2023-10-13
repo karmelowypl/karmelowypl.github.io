@@ -4,7 +4,7 @@ body
    
     font-family: Arial;
      background-color: rgb(184, 222, 235);   
-       
+       text-align: center
 }
 
 h1{
@@ -13,21 +13,20 @@ h1{
     text-shadow: 2px 2px 5px red;
 }
 div {
-    margin-left: 500px;
-    margin-right: 500px;
+    margin:auto;
     width: 700px;
     border: 11px solid green;
     padding: 50px;
     background-color: rgb(81, 196, 100);
+    
   } 
   .center{
     position: absolute;
-    left: 900px;
+    
 
 
   }
   .java{
-    position: absolute;
-    left: 40%;
-   top: 110%;
+    text-align: center;
+   
   }
